@@ -1,0 +1,7 @@
+extracted frames dataset:-
+https://www.kaggle.com/datasets/adham7elmy/faceforencispp-extracted-frames
+
+
+
+Videos dataset:-
+https://www.kaggle.com/datasets/xdxd003/ff-c23

@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE and OS files
+.idea/
+.vscode/
+*.DS_Store
+
+# Large files - models and data should not be tracked by Git
+/models/
+/temp_video_frames/
+*.mp4
+*.jpg
+*.png
+
+# Environment files
+.env
+venv/
